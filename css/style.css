@@ -1,0 +1,112 @@
+.body{
+    background-color: rgb(87, 4, 4);
+}
+.img{
+    background-color:  rgb(87, 4, 4);
+    border-style: double;
+    height: 80px; width: 80px; border-radius: 50%
+}
+.carousel-caption{
+    top: 220px;
+    color: rgba(243, 237, 233, 0.925);
+    font-size: 20px;
+    
+}
+.btn{
+    background-color: rgba(235, 148, 97, 0.925);
+    color:rgba(243, 237, 233, 0.925);
+    border: none;
+}
+.bg-brown{
+    background-color: rgba(235, 148, 97, 0.925);
+}
+#Brasomon{
+    color: rgb(87, 4, 4);
+    font-style: normal;
+    font-size: 40px;
+    margin-left: -0.1rem;
+}
+.nav-link1{
+    color: rgb(87, 4, 4);
+    font-size: 21px;
+    margin-left: 40rem;
+}
+.nav-link2{
+    font-size: 21px;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    color: rgb(87, 4, 4);
+}
+.nav-link3{
+    font-size: 21px;
+    padding-right: 5rem;
+    color: rgb(87, 4, 4);
+}
+.row{
+    font-style: normal;
+    color: rgb(87, 4, 4);
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    margin-top: 5rem;
+}  
+h4{
+    font-size:18px;
+    color: rgba(243, 237, 233, 0.925);
+}
+.card{
+    margin-bottom: 5rem;
+}
+.footer{
+    text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    background-color: rgb(87, 4, 4);
+   
+}
+h5{
+    text-align: center;
+    margin-top: 2rem;
+    color: rgba(243, 237, 233, 0.925);
+}
+h6{
+    font-size: 28px;
+    text-align: center;
+    margin-top: 3rem;
+    color: rgba(243, 237, 233, 0.925);
+}
+.card-body{
+    background-color: rgb(87, 4, 4);
+}
+.btn-success{
+    color: rgba(243, 237, 233, 0.925);
+    border: none;
+}
+.footer{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+   
+}
+#Facebook{
+    padding-right: 2rem;
+}
+#Twitter{
+    padding-right: 2rem;
+}
+.button{
+    background-color: rgb(87, 4, 4);
+}
+.bg-black{
+    background-color: rgb(87, 4, 4);
+}
+#Brasomon-1{
+    color: rgba(243, 237, 233, 0.925);
+    font-style: normal;
+    font-size: 40px;
+    margin-left: -0.1rem;
+}
+.container1{
+    background-color:  rgba(235, 148, 97, 0.925);
+}
+
